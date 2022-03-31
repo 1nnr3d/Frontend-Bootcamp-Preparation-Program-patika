@@ -11,4 +11,4 @@ Frontend Bootcamp Preparation Program Patika.dev
 <br />
 [Ödev 5 - JS Saat ve Karşılama](https://github.com/1nnr3d/Frontend-Bootcamp-Preparation-Program-patika/tree/main/js-saat-ve-kar%C5%9F%C4%B1lama)
 <br />
-[Ödev 6 - JS TO-DO](https://github.com/1nnr3d/Frontend-Bootcamp-Preparation-Program-patika/tree/main/js-todo-list)
+[Ödev 6 - Javascript TO-DO](https://github.com/1nnr3d/Frontend-Bootcamp-Preparation-Program-patika/tree/main/js-todo-list)
