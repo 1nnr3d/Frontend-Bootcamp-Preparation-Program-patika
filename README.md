@@ -12,3 +12,5 @@ Frontend Bootcamp Preparation Program Patika.dev
 [Ödev 5 - JS Saat ve Karşılama](https://github.com/1nnr3d/Frontend-Bootcamp-Preparation-Program-patika/tree/main/js-saat-ve-kar%C5%9F%C4%B1lama)
 <br />
 [Ödev 6 - Javascript TO-DO](https://github.com/1nnr3d/Frontend-Bootcamp-Preparation-Program-patika/tree/main/js-todo-list)
+<br />
+[Ödev 7 - Asian Kitchen's Menu](https://github.com/1nnr3d/Frontend-Bootcamp-Preparation-Program-patika/tree/main/asian-kitchen-menu)
